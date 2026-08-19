@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Zack! 👋
 
-<!--
-**Evan-Savio-23076/Evan-Savio-23076** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Currently taking CSC-134 and getting ready to learn C++!
 
-Here are some ideas to get you started:
+## My Foo (special interest) 🎯
+- Currently researching insects and agricture (specifically lepidoptera and hymenoptera)
+- I play a myriad of instrumentals, although not that well
+- Engineering is interesting to me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- C++
+- Triginometry
+- Psychology
+- Something else I don't remember
+  
+## Fun Fact
+-If you call my phone I will almost always pick up when outside of school/events, regardless of time. Seriously, I mean it.
+- My favorite color is red
+- I have 3 separate agricultural certificates and a *former* state aquaculture technician license 
+
+## Find Me
+- 📫 Right here on GitHub!
